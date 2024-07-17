@@ -1,1 +1,1 @@
-# Word-Game-in-HTML-CSS-and-JavaScript
+# Word Game in HTML CSS and JavaScript
